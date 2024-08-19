@@ -23,7 +23,7 @@ gmp:
 gnutls:
 - '3.7'
 harfbuzz:
-- '8'
+- '9'
 libjpeg_turbo:
 - '3'
 libpng:
@@ -39,4 +39,4 @@ ncurses:
 target_platform:
 - linux-64
 zlib:
-- '1.2'
+- '1'
